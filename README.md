@@ -1,2 +1,2 @@
-# frontend
-curso Alura
+# Treinamento
+curso Alura formacao em frontend
